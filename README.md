@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Christian Andersen and welcome to my profile!
+### Check out some of my projects!
+- 💰 [Price Tracker](https://github.com/christian4747/price-tracker), a work-in-progress full stack web application to help track the fluctuating prices of products
+- 🍅 [Pomodoro Timer](https://github.com/christian4747/pomodoro-timer), a timer website using the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to help with day-to-day productivity
+- 🧩 [Sudoku JS](https://github.com/christian4747/sudoku-js), a recreation of Sudoku where I learned it's probably not a good idea to put all my code in a single JS script
 <!--
 **christian4747/christian4747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
